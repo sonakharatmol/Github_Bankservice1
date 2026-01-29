@@ -30,7 +30,7 @@ public class BankService {
     }
 
     public static void main(String[] args) {
-        BankAccount acc = new BankAccount(500);
+        BankAccount acc = new BankAccount(88800);
 
         System.out.println("Initial Balance: " + acc.getBalance());
 
